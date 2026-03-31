@@ -1,4 +1,4 @@
-#Algorítmo de Converter Graus Celsius em Fahrenheit
+#Elabore um algoritmo que receba a temperatura em graus Celsius e apresente o valor convertido para graus Fahrenheit.
 
 celsius = float(input("Digite o valor de Graus Celsius: "))
 
