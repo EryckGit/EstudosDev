@@ -1,4 +1,4 @@
-#Algoritmo de Multiplicação
+#Elabore um algoritmo que receba dois números, calcule a multiplicação entre eles e apresente o resultado.
 
 print("Digite dois números os quais você deseja multiplicar.")
 numero1 = int(input("Digite o primeiro número: "))
