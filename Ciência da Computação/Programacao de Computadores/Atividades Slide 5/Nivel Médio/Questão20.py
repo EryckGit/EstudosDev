@@ -5,4 +5,4 @@ valor = int(input("Digite um número: "))
 if valor >= 0 and valor <= 100:
   print(f"O número {valor} está entre 0 e 100")
 else:
-  print(valor)
+  print("O numero está fora do intervalo", "Valor:", valor)
